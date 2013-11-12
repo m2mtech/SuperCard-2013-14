@@ -71,6 +71,7 @@
 		5B0BC6DF1832513F000A35E3 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
 		5B0BC6E01832513F000A35E3 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardDeck.h; sourceTree = "<group>"; };
 		5B0BC6E11832513F000A35E3 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardDeck.m; sourceTree = "<group>"; };
+		5B0BC6E718325D0A000A35E3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		5B0BC6931832448E000A35E3 = {
 			isa = PBXGroup;
 			children = (
+				5B0BC6E718325D0A000A35E3 /* README.md */,
 				5B0BC6A51832448E000A35E3 /* SuperCard */,
 				5B0BC6C41832448E000A35E3 /* SuperCardTests */,
 				5B0BC69E1832448E000A35E3 /* Frameworks */,
